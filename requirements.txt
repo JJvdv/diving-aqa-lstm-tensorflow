@@ -1,0 +1,6 @@
+mediapipe==0.10.18
+tensorflow==2.17.1
+matplotlib
+scikit-learn
+opencv-python
+keras
